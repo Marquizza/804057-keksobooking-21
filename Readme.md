@@ -1,7 +1,7 @@
 ﻿# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Екатерина](https://up.htmlacademy.ru/javascript/21/user/804057).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Глазков](https://htmlacademy.ru/profile/id1194253).
 
 ---
 
@@ -51,4 +51,3 @@ git clone SSH-адрес_вашего_форка
 [travis-image]: https://travis-ci.com/htmlacademy-javascript/804057-keksobooking-21.svg?branch=master
 [travis-url]: https://travis-ci.com/htmlacademy-javascript/804057-keksobooking-21
 
-Сергей Глазков
